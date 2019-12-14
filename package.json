@@ -1,5 +1,5 @@
 {
-  "name": "smilodon",
+  "name": "dunder-mifflin",
   "version": "0.1.0",
   "description": "Convert docx documents into to JSON/HTML",
   "main": "./lib/index.js",
