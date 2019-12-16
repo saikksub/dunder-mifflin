@@ -1,6 +1,6 @@
 # Convert the office documents into JSON or HTML
 
-Dunder-mifflin is an asynchronous node library to convert Office Open XML documents into JSON or HTML. The library is written by following http://officeopenxml.com specificaions.
+the-office is an asynchronous node library to convert Office Open XML documents into JSON or HTML. The library is written by following http://officeopenxml.com specificaions.
 
 By default, the library provides JOSN data of the selected office document.
 
@@ -13,13 +13,13 @@ By default, the library provides JOSN data of the selected office document.
 
 ## Install
 ``` bash
-npm i --save @saikksub/dunder-mifflin
+npm i --save @saikksub/the-office
 ```
 
 ## Usage
 ``` javascript
 const fs = require('fs')
-const { word, parser } = require('@saikksub/dunder-mifflin')
+const { word, parser } = require('@saikksub/the-office')
 
 // Read office document
 const fileData = fs.readFileSync('/Users/kksai/Documents/soundq/test.docx')
