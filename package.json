@@ -1,5 +1,5 @@
 {
-  "name": "@saikksub/the-office",
+  "name": "@saikksub/dunder-mifflin",
   "version": "0.1.4",
   "description": "Convert docx documents into to JSON/HTML",
   "main": "./lib/index.js",
