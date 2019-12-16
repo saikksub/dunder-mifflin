@@ -1,6 +1,6 @@
 {
-  "name": "dunder-mifflin",
-  "version": "0.1.0",
+  "name": "@saikksub/dunder-mifflin",
+  "version": "0.1.1",
   "description": "Convert docx documents into to JSON/HTML",
   "main": "./lib/index.js",
   "scripts": {
